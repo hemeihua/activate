@@ -1,5 +1,5 @@
 import sys
-sys.path.append(r"C:\Users\Administrator\PycharmProjects\search")
+sys.path.append("C:/Users/Administrator/PycharmProjects/search")
 import unittest
 import HTMLTestRunner
 import os
