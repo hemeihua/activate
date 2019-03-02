@@ -19,4 +19,4 @@ class HomePage(BasePage):
     def verfiy(self):
         time.sleep(2)
         self.activate_window(1)
-        return self.driver.find_element_by_css_selector(".pbw font")
+        return self.driver.find_elements_by_css_selector(".pbw font")

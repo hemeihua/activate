@@ -11,7 +11,7 @@ sys.path.append("C:/Users/Administrator/PycharmProjects/search")
 
 cur_path=os.path.dirname(os.path.realpath(__file__))
 # cur_path=os.path.dirname(os.path.abspath("."))
-report_path=os.path.join(cur_path,"report")
+report_path=os.path.join(cur_path,"report/")
 if not os.path.exists(report_path): os.mkdir(report_path)
 
 suite=unittest.TestSuite()

@@ -18,10 +18,12 @@ class DiscuzSearch2(BaseTestCase):
         assert "hemei" in indexAssert.text
 
         homePage.searchtiezi("haotest")
-        n = homePage.verfiy()
-
+        h = homePage.verfiy()
+        n = ""
+        for i in h:
+            n = i.text
         discuzBase.tuichu()
-        result = n.test
+        result = n
         self.assertEqual(result,expect_value,msg=result)
 
 if __name__=="__main__":

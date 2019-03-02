@@ -46,19 +46,19 @@ class HomePage(BasePage):
         self.click(*self.home_page_button_setupvote_search_loc)
         self.click(*self.home_page_button_votesubmit_search_loc)
     def toupianxuanxiang(self):
-        xuanpiao=self.driver.find_element_by_css_selector(".pcht table tbody tr:nth-child(1) td label")
+        xuanpiao=self.driver.find_elements_by_css_selector(".pcht table tbody tr:nth-child(1) td label")
         return xuanpiao
     def toupianxuanxiang1(self):
-        xuanpiao1 = self.driver.find_element_by_css_selector(".pcht table tbody tr:nth-child(3) td label")
+        xuanpiao1 = self.driver.find_elements_by_css_selector(".pcht table tbody tr:nth-child(3) td label")
         return xuanpiao1
     def toupianxuanxiang2(self):
-        bili = self.driver.find_element_by_css_selector(".pcht table tbody tr:nth-child(2) td:nth-child(2)")
+        bili = self.driver.find_elements_by_css_selector(".pcht table tbody tr:nth-child(2) td:nth-child(2)")
         return bili
     def toupianxuanxiang3(self):
-        bili1 = self.driver.find_element_by_css_selector(".pcht table tbody tr:nth-child(4) td:nth-child(2)")
+        bili1 = self.driver.find_elements_by_css_selector(".pcht table tbody tr:nth-child(4) td:nth-child(2)")
         return bili1
     def toupianxuanxiang4(self):
-        toupiaotitle = self.driver.find_element_by_css_selector(".vwthd  h1 span")
+        toupiaotitle = self.driver.find_elements_by_css_selector(".vwthd  h1 span")
         return toupiaotitle
 
 
