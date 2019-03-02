@@ -1,0 +1,25 @@
+2019-03-02 18:48:12,833-BrowserEngine-INFO-The test server url is :Chrome
+2019-03-02 18:48:12,834-BrowserEngine-INFO-The test server url is :http://127.0.0.1/forum.php
+2019-03-02 18:48:15,908-BrowserEngine-INFO-Starting Chrome browser.
+2019-03-02 18:48:16,645-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-03-02 18:48:17,773-BrowserEngine-INFO-Maximize the current window.
+2019-03-02 18:48:17,776-BrowserEngine-INFO-Set implicitly wate 10 seconds.
+2019-03-02 18:48:17,933-BasePage-INFO-输入内容hemei
+2019-03-02 18:48:18,090-BasePage-INFO-输入内容hemeihua
+2019-03-02 18:48:18,219-BasePage-INFO-this element 登录 was clicked
+2019-03-02 18:48:18,815-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 18:48:21,473-BasePage-ERROR-Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=71.0.3554.0)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.15063 x86_64)
+
+2019-03-02 18:48:21,845-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 18:48:22,049-BasePage-INFO-输入内容hhhhhh
+2019-03-02 18:48:22,334-BasePage-INFO-输入内容mmmmhhhhhhhhhhhhhhmm
+2019-03-02 18:48:23,777-BasePage-ERROR-Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=71.0.3554.0)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.15063 x86_64)
+
+2019-03-02 18:48:24,157-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 18:48:26,412-BasePage-INFO-输入内容ii这是个好办法iii
+2019-03-02 18:48:26,791-BasePage-INFO-this element 发表回复 was clicked
+2019-03-02 18:48:27,206-BasePage-INFO-Had take screenshot and save to folder:/screenshots

@@ -16,4 +16,3 @@ class DiscuzBase(BasePage):
     def tuichu(self):
         self.activate_window(0)
         self.click(*self.home_page_button_tuichu_search_loc)
-

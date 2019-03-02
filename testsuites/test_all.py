@@ -6,6 +6,8 @@ from testsuites.test_Discuz_search import DiscuzSearch
 from testsuites.test_Discuz1_search import DiscuzSearch1
 from testsuites.test_Discuz2_search import DiscuzSearch2
 from testsuites.test_Discuz3_search import DiscuzSearch3
+import sys
+sys.path.append("C:/Users/Administrator/PycharmProjects/search")
 
 cur_path=os.path.dirname(os.path.realpath(__file__))
 # cur_path=os.path.dirname(os.path.abspath("."))

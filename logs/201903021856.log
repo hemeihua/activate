@@ -1,0 +1,63 @@
+2019-03-02 18:56:19,202-BrowserEngine-INFO-The test server url is :Chrome
+2019-03-02 18:56:19,202-BrowserEngine-INFO-The test server url is :http://127.0.0.1/forum.php
+2019-03-02 18:56:22,065-BrowserEngine-INFO-Starting Chrome browser.
+2019-03-02 18:56:22,655-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-03-02 18:56:23,786-BrowserEngine-INFO-Maximize the current window.
+2019-03-02 18:56:23,788-BrowserEngine-INFO-Set implicitly wate 10 seconds.
+2019-03-02 18:56:23,940-BasePage-INFO-输入内容admin
+2019-03-02 18:56:24,094-BasePage-INFO-输入内容hemeihua
+2019-03-02 18:56:24,222-BasePage-INFO-this element 登录 was clicked
+2019-03-02 18:56:24,865-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 18:56:27,623-BasePage-ERROR-Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=71.0.3554.0)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.15063 x86_64)
+
+2019-03-02 18:56:27,979-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 18:56:28,479-BasePage-INFO-this element  was clicked
+2019-03-02 18:56:28,875-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 18:56:29,332-BasePage-INFO-this element 删除 was clicked
+2019-03-02 18:56:29,711-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 18:56:30,387-BasePage-ERROR-Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=71.0.3554.0)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.15063 x86_64)
+
+2019-03-02 18:56:30,773-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 18:56:32,970-BasePage-INFO-this element 管理中心 was clicked
+2019-03-02 18:56:33,562-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 18:56:52,168-BasePage-ERROR-<pageobjects.Discuz1_homepage.HomePage object at 0x0306D750>页面中未能找到('xpath', '//form/p[4]/input')元素
+2019-03-02 18:56:52,518-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 18:56:52,518-BasePage-ERROR-Failed to type in input boxwith 'NoneType' object has no attribute 'clear'
+2019-03-02 18:56:52,869-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 18:57:05,424-BasePage-ERROR-<pageobjects.Discuz1_homepage.HomePage object at 0x0306D750>页面中未能找到('xpath', '//form/p[9]/input')元素
+2019-03-02 18:57:05,806-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 18:57:05,807-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-03-02 18:57:06,153-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 18:57:08,510-BasePage-INFO-this element 论坛 was clicked
+2019-03-02 18:57:08,845-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 18:57:13,193-BasePage-INFO-this element 添加新版块 was clicked
+2019-03-02 18:57:13,572-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 18:57:15,755-BasePage-INFO-输入内容nows
+2019-03-02 18:57:18,134-BasePage-ERROR-Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=71.0.3554.0)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.15063 x86_64)
+
+2019-03-02 18:57:18,472-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 18:57:21,100-BasePage-ERROR-Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=71.0.3554.0)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.15063 x86_64)
+
+2019-03-02 18:57:21,451-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 18:57:28,857-BasePage-ERROR-Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=71.0.3554.0)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.15063 x86_64)
+
+2019-03-02 18:57:29,198-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 18:57:29,536-BasePage-ERROR-Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=71.0.3554.0)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.15063 x86_64)
+
+2019-03-02 18:57:29,887-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 18:57:32,030-BasePage-INFO-输入内容hemei
+2019-03-02 18:57:32,183-BasePage-INFO-输入内容hemeihua
+2019-03-02 18:57:32,299-BasePage-INFO-this element 登录 was clicked
+2019-03-02 18:57:32,799-BasePage-INFO-Had take screenshot and save to folder:/screenshots

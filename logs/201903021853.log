@@ -1,0 +1,30 @@
+2019-03-02 18:53:26,012-BrowserEngine-INFO-The test server url is :Chrome
+2019-03-02 18:53:26,013-BrowserEngine-INFO-The test server url is :http://127.0.0.1/forum.php
+2019-03-02 18:53:28,807-BrowserEngine-INFO-Starting Chrome browser.
+2019-03-02 18:53:29,390-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-03-02 18:53:30,514-BrowserEngine-INFO-Maximize the current window.
+2019-03-02 18:53:30,516-BrowserEngine-INFO-Set implicitly wate 10 seconds.
+2019-03-02 18:53:30,673-BasePage-INFO-输入内容hemei
+2019-03-02 18:53:30,822-BasePage-INFO-输入内容hemeihua
+2019-03-02 18:53:30,949-BasePage-INFO-this element 登录 was clicked
+2019-03-02 18:53:31,546-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 18:53:34,180-BasePage-ERROR-Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=71.0.3554.0)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.15063 x86_64)
+
+2019-03-02 18:53:34,544-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 18:53:34,754-BasePage-INFO-输入内容hhhhhh
+2019-03-02 18:53:35,012-BasePage-INFO-输入内容mmmmhhhhhhhhhhhhhhmm
+2019-03-02 18:53:36,340-BasePage-ERROR-Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=71.0.3554.0)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.15063 x86_64)
+
+2019-03-02 18:53:36,710-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 18:53:38,929-BasePage-INFO-输入内容ii这是个好办法iii
+2019-03-02 18:53:39,268-BasePage-INFO-this element 发表回复 was clicked
+2019-03-02 18:53:39,696-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 18:53:41,873-BasePage-ERROR-Failed to click the element with Message: unknown error: Element <a href="member.php?mod=logging&action=logout&formhash=51255aa1">...</a> is not clickable at point (1432, 7). Other element would receive the click: <a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(60);})">...</a>
+  (Session info: chrome=71.0.3554.0)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.15063 x86_64)
+
+2019-03-02 18:53:42,268-BasePage-INFO-Had take screenshot and save to folder:/screenshots

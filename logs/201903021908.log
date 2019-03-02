@@ -1,0 +1,19 @@
+2019-03-02 19:08:34,375-BrowserEngine-INFO-The test server url is :Chrome
+2019-03-02 19:08:34,375-BrowserEngine-INFO-The test server url is :http://127.0.0.1/forum.php
+2019-03-02 19:08:37,426-BrowserEngine-INFO-Starting Chrome browser.
+2019-03-02 19:08:38,064-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-03-02 19:08:39,194-BrowserEngine-INFO-Maximize the current window.
+2019-03-02 19:08:39,195-BrowserEngine-INFO-Set implicitly wate 10 seconds.
+2019-03-02 19:08:39,360-BasePage-INFO-输入内容hemei
+2019-03-02 19:08:39,530-BasePage-INFO-输入内容hemeihua
+2019-03-02 19:08:39,671-BasePage-INFO-this element 登录 was clicked
+2019-03-02 19:08:40,355-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 19:08:42,558-BasePage-INFO-输入内容haotest
+2019-03-02 19:08:42,775-BasePage-INFO-this element  was clicked
+2019-03-02 19:08:43,245-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 19:08:48,670-BasePage-INFO-Had take screenshot and save to folder:/screenshots
+2019-03-02 19:08:51,290-BasePage-ERROR-Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=71.0.3554.0)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.15063 x86_64)
+
+2019-03-02 19:08:51,638-BasePage-INFO-Had take screenshot and save to folder:/screenshots

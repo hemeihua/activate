@@ -12,14 +12,16 @@ class DiscuzSearch2(BaseTestCase):
     def test_Discuz2_search(self,expect_value):
         homePage = HomePage(self.driver)
         discuzBase = DiscuzBase(self.driver)
+
         discuzBase.search("hemei","hemeihua")
+        indexAssert = self.driver.find_element_by_css_selector(".vwmy a")
+        assert "hemei" in indexAssert.text
+
         homePage.searchtiezi("haotest")
-        h = homePage.verfiy()
-        n = ""
-        for i in h:
-            n = i.text
+        n = homePage.verfiy()
+
         discuzBase.tuichu()
-        result = n
+        result = n.test
         self.assertEqual(result,expect_value,msg=result)
 
 if __name__=="__main__":
